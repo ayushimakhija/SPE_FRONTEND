@@ -140,8 +140,9 @@ class SignUp extends Component {
                         <br/><br/>
                         <button className="registerButton" onClick={this.saveCustomer}>Register</button>
                     </form>
-                </div>
             </div>
+          </div>
+        </div>
                  
         )
     }
