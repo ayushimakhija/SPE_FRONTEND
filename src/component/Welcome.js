@@ -20,24 +20,7 @@ class Welcome extends Component {
 
                         – Winona LaDuke</h5>
                 </div>
-            <div className="Search">
-                <div className="Card" >
-                    <Card border="success" style={{ width: '18rem' }} >
-                        <Card.Img variant="top" src="" />
-                        <Card.Body>
-                            <Card.Title><h1>Pizza</h1></Card.Title>
-                            <Card.Text>
-                                <h4>Price :  230</h4>
-                                <br/>
-                                <h3>Monday</h3>
-                                <br/>
-
-                            </Card.Text>
-                        </Card.Body>
-                    </Card>
-                </div>
-                <br/>
-            </div>
+          
 
 
             </div>
